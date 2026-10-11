@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Pulse Notes</string>
+    <string name="search_placeholder">Suchen</string>
+    <string name="tag_recent">Kürzlich</string>
+    <string name="tag_all">Alle</string>
+    <string name="tag_starred">Markiert</string>
+    <string name="tag_voices">Aufnahmen</string>
+    <string name="tag_tasks">Aufgaben</string>
+    <string name="settings">Einstellungen</string>
+    <string name="trash">Papierkorb</string>
+    <string name="empty_trash">Papierkorb leeren?</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="delete">Löschen</string>
+    <string name="save">Speichern</string>
+    <string name="add_image">Bild hinzufügen</string>
+    <string name="take_photo">Foto aufnehmen</string>
+    <string name="choose_image">Bild auswählen</string>
+    <string name="sync">Synchronisieren</string>
+    <string name="backup">Sicherung</string>
+    <string name="settings_general">Allgemein</string>
+    <string name="settings_reminders">Erinnerungen &amp; Alarme</string>
+    <string name="set_reminder">Erinnerung einstellen</string>
+    <string name="remove_reminder">Entfernen</string>
+    <string name="wipe_data">Alle Daten löschen?</string>
+    <string name="select_language">App-Sprache</string>
+    <string name="select_language_subtitle">Sprache der Anwendung ändern</string>
+</resources>

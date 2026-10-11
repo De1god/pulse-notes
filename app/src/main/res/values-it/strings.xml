@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Pulse Notes</string>
+    <string name="search_placeholder">Cerca</string>
+    <string name="tag_recent">Recenti</string>
+    <string name="tag_all">Tutti</string>
+    <string name="tag_starred">Speciali</string>
+    <string name="tag_voices">Vocali</string>
+    <string name="tag_tasks">Attività</string>
+    <string name="settings">Impostazioni</string>
+    <string name="trash">Cestino</string>
+    <string name="empty_trash">Svuotare il cestino?</string>
+    <string name="cancel">Annulla</string>
+    <string name="delete">Elimina</string>
+    <string name="save">Salva</string>
+    <string name="add_image">Aggiungi immagine</string>
+    <string name="take_photo">Scatta foto</string>
+    <string name="choose_image">Scegli immagine</string>
+    <string name="sync">Sincronizza</string>
+    <string name="backup">Backup</string>
+    <string name="settings_general">Generale</string>
+    <string name="settings_reminders">Promemoria e Allarmi</string>
+    <string name="set_reminder">Imposta promemoria</string>
+    <string name="remove_reminder">Rimuovi</string>
+    <string name="wipe_data">Cancellare tutti i dati?</string>
+    <string name="select_language">Lingua dell\'app</string>
+    <string name="select_language_subtitle">Cambia la lingua dell\'applicazione</string>
+</resources>
